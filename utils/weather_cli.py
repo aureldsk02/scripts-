@@ -8,7 +8,6 @@ import sys
 import argparse
 import requests
 
-# API Configuration
 API_BASE_URL = "https://wttr.in"
 
 def parse_arguments():
